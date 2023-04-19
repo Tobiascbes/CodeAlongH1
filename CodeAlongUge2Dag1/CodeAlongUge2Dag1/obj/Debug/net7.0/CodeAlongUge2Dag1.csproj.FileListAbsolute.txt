@@ -1,0 +1,15 @@
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\bin\Debug\net7.0\CodeAlongUge2Dag1.exe
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\bin\Debug\net7.0\CodeAlongUge2Dag1.deps.json
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\bin\Debug\net7.0\CodeAlongUge2Dag1.runtimeconfig.json
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\bin\Debug\net7.0\CodeAlongUge2Dag1.dll
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\bin\Debug\net7.0\CodeAlongUge2Dag1.pdb
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\obj\Debug\net7.0\CodeAlongUge2Dag1.csproj.AssemblyReference.cache
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\obj\Debug\net7.0\CodeAlongUge2Dag1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\obj\Debug\net7.0\CodeAlongUge2Dag1.AssemblyInfoInputs.cache
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\obj\Debug\net7.0\CodeAlongUge2Dag1.AssemblyInfo.cs
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\obj\Debug\net7.0\CodeAlongUge2Dag1.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\obj\Debug\net7.0\CodeAlongUge2Dag1.dll
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\obj\Debug\net7.0\refint\CodeAlongUge2Dag1.dll
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\obj\Debug\net7.0\CodeAlongUge2Dag1.pdb
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\obj\Debug\net7.0\CodeAlongUge2Dag1.genruntimeconfig.cache
+C:\Users\Tobias\source\repos\CodeAlongUge2Dag1\CodeAlongUge2Dag1\obj\Debug\net7.0\ref\CodeAlongUge2Dag1.dll

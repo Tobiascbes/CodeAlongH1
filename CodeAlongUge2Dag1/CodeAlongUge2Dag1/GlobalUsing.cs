@@ -1,0 +1,1 @@
+﻿global using CodeAlongUge2Dag1.Codes;
